@@ -1,0 +1,1 @@
+﻿IIS tiene que tener  windows authentication y asp.net impersonation y el POOL debe ser 4.0 y CLASIC
